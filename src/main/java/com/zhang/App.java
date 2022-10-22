@@ -12,7 +12,5 @@ public class App
         System.out.println( "Hello git!" );
         System.out.println( "Hello git!" );
         System.out.println("hello zhang");
-        System.out.println("hello");
-        System.out.println("hello");
     }
 }
